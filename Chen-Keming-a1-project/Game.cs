@@ -108,7 +108,7 @@ namespace MohawkGame2D
             //By virtue of how the variables were intialized, if none of these 'if/else-if' statements are met (both 'R' and 'G' are being held but NOT 'spacebar')...
             //...Then the flag defaults to White & Black
 
-
+            
 
 
             Draw.SetLineSize(0); //default line size
